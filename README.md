@@ -13,7 +13,6 @@ Meu nome é Rafael Galdino da Silva e me considero um entusiasta em computação
 :wrench: Ferramentas que Utilizo :
 - Visual Studio Code
 - Microsoft Edge
-- Docker
 - Git e Github
 
 :video_game: Hobbies : 
