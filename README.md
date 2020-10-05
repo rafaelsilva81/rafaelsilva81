@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá! :smile:
+Opa, tudo bom? Bem vindo ao meu perfil do Github :)
 
-<!--
-**rafaelsilva81/rafaelsilva81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Meu nome é Rafael Galdino da Silva e me considero um entusiasta em computação :coffee:
 
-Here are some ideas to get you started:
+:blue_book: Atualmente Estudando :
+- Ciências da Computação (UFC Campus Quixadá)
+- ReactJS
+- NodeJS
+- NextJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:wrench: Ferramentas que Utilizo :
+- Visual Studio Code
+- Microsoft Edge
+- Docker
+- Git e Github
+
+:video_game: Hobbies : 
+- Games (Que inclusive, são responsáveis por eu gostar de computação hoje)
+- Animes
+- Raras vezes tenho vontade de criar conteúdo pra internet (Especialmente Vídeos)
+
+:memo: Metas :
+- Viver uma vida feliz e ter um futuro que eu possa me orgulhar
+
+## É isso! Obrigado por ter lido até aqui
+> A melhor maneira de prever o futuro é criá-lo. (Peter Drucker).
