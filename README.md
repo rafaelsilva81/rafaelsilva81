@@ -17,7 +17,7 @@ Meu nome é Rafael Galdino da Silva e me considero um entusiasta em computação
 
 :video_game: Hobbies : 
 - Games (Que inclusive, são responsáveis por eu gostar de computação hoje)
-- Animes
+- Animes e Mangás
 - Raras vezes tenho vontade de criar conteúdo pra internet (Especialmente Vídeos)
 
 :memo: Metas :
