@@ -10,11 +10,6 @@ Meu nome é Rafael Galdino da Silva e me considero um entusiasta em computação
 - NodeJS
 - NextJS
 
-:wrench: Ferramentas que Utilizo :
-- Visual Studio Code
-- Microsoft Edge
-- Git e Github
-
 :video_game: Hobbies : 
 - Games (Que inclusive, são responsáveis por eu gostar de computação hoje)
 - Animes e Mangás
