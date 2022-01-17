@@ -1,22 +1,15 @@
-# Olá! :smile:
-Opa, tudo bom? Bem vindo ao meu perfil do Github :)
+# Hello! 
+Welcome to my Github profile.
 
-### Sobre Mim
-Meu nome é Rafael Galdino da Silva e me considero um entusiasta em computação :coffee:
+My name is Rafael and i'm a programmer with knowledge in Web, Mobile and Desktop development!
+Not only that, but i'm also into a bunch of other stuff related to Computers and Technology in general
 
-:blue_book: Atualmente Estudando :
-- Ciências da Computação (UFC Campus Quixadá)
+I'm currently studying Computer Science in the Federal University of Ceara and I keep upgrading my skills in many diffent programming languages and technologies :blue_book: 
+To quote some :
 - ReactJS
 - NodeJS
-- NextJS
+- PHP
+- Ionic
+- And more 😉
 
-:video_game: Hobbies : 
-- Games (Que inclusive, são responsáveis por eu gostar de computação hoje)
-- Animes e Mangás
-- Raras vezes tenho vontade de criar conteúdo pra internet (Especialmente Vídeos)
-
-:memo: Metas :
-- Viver uma vida feliz e ter um futuro que eu possa me orgulhar
-
-## É isso! Obrigado por ter lido até aqui
-> A melhor maneira de prever o futuro é criá-lo. (Peter Drucker).
+“The best way to predict the future is to create it.”
