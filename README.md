@@ -9,7 +9,7 @@ To quote some :
 - ReactJS
 - NodeJS
 - PHP
-- Ionic
+- Flutter
 - And more 😉
 
 “The best way to predict the future is to create it.”
