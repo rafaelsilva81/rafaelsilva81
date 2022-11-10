@@ -1,9 +1,30 @@
+<img src="https://i.imgur.com/NIMuGrX.png" width='100%'/>
+ 
+### Hello, welcome to my Github profile! I'm a full stack developer with focus on modern web technologies
 
-## Welcome to my Github profile!
 
-#### My name is Rafael and I'm a programmer with knowledge in Web, Mobile and Desktop development using multiple technologies.
-#### I'm generaly into everything that includes technology! 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilva81&count_private=true&show_icons=false&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&layout=compact&hide=java&langs_count=8&theme=github_dark)
+## Main Technologies
+<div style="padding-right: 5px; margin-top: 0; padding-top: 0;"> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB!"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
 
-###### “The best way to predict the future is to create it.” - Peter Drucker
+## Some of my stats
+![stats](https://github-readme-stats.vercel.app/api?username=rafaelsilva81&count_private=true&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=java,jupyter%20notebook&langs_count=4&layout=compact)
+
+## Main projects
+
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;"> 
+ 
+  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=mydrive&theme=transparent)](https://github.com/rafaelsilva81/mydrive)
+  
+  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=spa-calendar&theme=transparent)](https://github.com/rafaelsilva81/spa-calendar)
+  
+  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=new-portfolio&theme=transparent)](https://github.com/rafaelsilva81/new-portfolio)
+  
+</div>
