@@ -17,14 +17,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaelsilva81&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=java,jupyter%20notebook&langs_count=4&layout=compact)
 
-## Main projects
-
-<div style="display: flex; align-items: center; justify-content: center; width: 100%;"> 
- 
-  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=mydrive&theme=transparent)](https://github.com/rafaelsilva81/mydrive)
-  
-  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=spa-calendar&theme=transparent)](https://github.com/rafaelsilva81/spa-calendar)
-  
-  [![mydrive](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsilva81&repo=new-portfolio&theme=transparent)](https://github.com/rafaelsilva81/new-portfolio)
-  
-</div>
+## Contact info
+##### Linkedin: [/rafaelgaldinosilva81](https://www.linkedin.com/in/rafaelgaldinosilva81/)
+##### Instagram: [@rafaelsilva.81](https://www.instagram.com/rafaelsilva.81/)
+##### Email: [rafaelgaldinosilva81@gmail.com](mailto:rafaelgaldinosilva81@gmail.com)
