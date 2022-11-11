@@ -18,6 +18,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=java,jupyter%20notebook&langs_count=4&layout=compact)
 
 ## Contact info
-##### Linkedin: [/rafaelgaldinosilva81](https://www.linkedin.com/in/rafaelgaldinosilva81/)
-##### Instagram: [@rafaelsilva.81](https://www.instagram.com/rafaelsilva.81/)
-##### Email: [rafaelgaldinosilva81@gmail.com](mailto:rafaelgaldinosilva81@gmail.com)
+#### Linkedin: [/rafaelgaldinosilva81](https://www.linkedin.com/in/rafaelgaldinosilva81/)
+#### Instagram: [@rafaelsilva.81](https://www.instagram.com/rafaelsilva.81/)
+#### Email: [rafaelgaldinosilva81@gmail.com](mailto:rafaelgaldinosilva81@gmail.com)
