@@ -1,7 +1,5 @@
+## Welcome to My Github Profile! 
 <a href="https://rafaeldev.me"> <img src="https://i.imgur.com/NIMuGrX.png" width='100%'/> </a>
- 
-### Hello, welcome to my Github profile! I'm a full stack developer with focus on modern web technologies
-
 
 ## Main Technologies
 <div style="padding-right: 5px; margin-top: 0; padding-top: 0;"> 
