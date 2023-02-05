@@ -19,5 +19,3 @@
 #### Linkedin: [/rafaelgaldinosilva81](https://www.linkedin.com/in/rafaelgaldinosilva81/)
 #### Instagram: [@rafaelsilva.81](https://www.instagram.com/rafaelsilva.81/)
 #### Email: [rafaelgaldinosilva81@gmail.com](mailto:rafaelgaldinosilva81@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=rafaelsilva81&style=for-the-badge)
