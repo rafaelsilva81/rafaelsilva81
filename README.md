@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-## Some of my stats
+## Statistics
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaelsilva81&count_private=true&&theme=transparent&hide_title=true&line_height=21&card_width=300)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=gdscript,java,jupyter%20notebook&langs_count=4&layout=compact)
 
