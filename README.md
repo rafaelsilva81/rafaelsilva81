@@ -16,6 +16,6 @@
 ![Top Langs](https://github-readme-stats-two-orcin-21.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=gdscript,java,jupyter%20notebook&langs_count=4&layout=compact)
 
 ## Contact info
-#### Linkedin: [/rafaelgaldinosilva81](https://www.linkedin.com/in/rafaelgaldinosilva81/)
-#### Instagram: [@rafaelsilva.81](https://www.instagram.com/rafaelsilva.81/)
-#### Email: [rafaelgaldinosilva81@gmail.com](mailto:rafaelgaldinosilva81@gmail.com)
+<a href="https://linkedin.com/in/rafaelgaldinosilva81/"> <img src="https://img.shields.io/badge//rafaelgaldinosilva81-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:rafaelgaldinosilva81@gmail.com"> <img src="https://img.shields.io/badge/rafaelgaldinosilva81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://rafaeldev.me"> <img src="https://img.shields.io/badge/rafaeldev.me-121212?style=for-the-badge&logoColor=white" /> </a>
