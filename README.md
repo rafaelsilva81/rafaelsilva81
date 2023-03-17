@@ -13,7 +13,7 @@
 
 ## Statistics
 ![statistics](https://github-readme-stats-two-orcin-21.vercel.app/api?username=rafaelsilva81&count_private=true&&theme=transparent&hide_title=true&line_height=21&card_width=300)
-![Top Langs](https://github-readme-stats-two-orcin-21.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=gdscript,java,jupyter%20notebook&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats-two-orcin-21.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=c,makefile,c%2B%2B,gdscript,java,jupyter%20notebook&langs_count=4&layout=compact)
 
 ## Contact info
 <a href="https://linkedin.com/in/rafaelgaldinosilva81/"> <img src="https://img.shields.io/badge//rafaelgaldinosilva81-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
