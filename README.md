@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-## Statistics
-![statistics](https://github-readme-stats.vercel.app/api?username=rafaelsilva81&count_private=true&&theme=transparent&hide_title=true&line_height=21&card_width=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva81&theme=transparent&hide=c,makefile,c%2B%2B,gdscript,java,jupyter%20notebook&langs_count=4&layout=compact)
-
 ## Contact info
 <a href="https://linkedin.com/in/rafaelgaldinosilva81/"> <img src="https://img.shields.io/badge//rafaelgaldinosilva81-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:rafaelgaldinosilva81@gmail.com"> <img src="https://img.shields.io/badge/rafaelgaldinosilva81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
