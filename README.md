@@ -14,4 +14,4 @@
 ## Contact info
 <a href="https://linkedin.com/in/rafaelgaldinosilva81/"> <img src="https://img.shields.io/badge//rafaelgaldinosilva81-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:rafaelgaldinosilva81@gmail.com"> <img src="https://img.shields.io/badge/rafaelgaldinosilva81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://rafaedev.tech"> <img src="https://img.shields.io/badge/rafadev.tech-121212?style=for-the-badge&logoColor=white" /> </a>
+<a href="https://rafadev.tech"> <img src="https://img.shields.io/badge/rafadev.tech-121212?style=for-the-badge&logoColor=white" /> </a>
