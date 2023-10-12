@@ -1,5 +1,5 @@
 ## Welcome to My Github Profile! 
-<a href="https://rafadev.tech"> <img src="https://i.imgur.com/NIMuGrX.png" width='100%'/> </a>
+<a href="https://rafadev.tech" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/NIMuGrX.png" width='100%'/> </a>
 
 ## Main Technologies
 <div style="padding-right: 5px; margin-top: 0; padding-top: 0;"> 
